@@ -1,0 +1,1 @@
+With the exponentially increasing volume of legal cases in many countries; the goal is to design a system to augment judgment in the process, it would be of immense help to the legal community and expedite the process. More-over, if the system provides an explanation for the decision, it would help a judge make an informed decision about the final outcome of the case
